@@ -1,0 +1,8 @@
+fastapi
+pydantic
+qiskit-aer
+qiskit-optimization
+qiskit-algorithms
+pymongo
+python-dotenv
+numpy
